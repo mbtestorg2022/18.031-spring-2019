@@ -30,7 +30,7 @@ Student Insights
 
 _Below, student Madeleine Schroeder reflects on her experiences in the course_.
 
-I am a first-year student and I plan to major in aerospace and astronautics. I decided to take this course because I was only taking four courses when the second half of the semester began and I wanted a little extra work to do. I have enjoyed _[18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011/)_ this semester and I thought it would be interesting to learn other methods of solving ODEs \[ordinary differential equations\] that have more accessible uses in engineering.
+I am a first-year student and I plan to major in aerospace and astronautics. I decided to take this course because I was only taking four courses when the second half of the semester began and I wanted a little extra work to do. I have enjoyed _[18.03 Differential Equations](/courses/18-03sc-differential-equations-fall-2011)_ this semester and I thought it would be interesting to learn other methods of solving ODEs \[ordinary differential equations\] that have more accessible uses in engineering.
 
 {{< quote "Reading the lecture notes outside of class allowed me to work at my own pace." "— Madeleine Schroeder" >}}
 
@@ -55,7 +55,7 @@ Curriculum Information
 
 ### Prerequisites
 
-None, but _[18.03 Differential Equations](/courses/18-03-differential-equations-spring-2010/)_ is a corequisite.
+None, but _[18.03 Differential Equations](/courses/18-03-differential-equations-spring-2010)_ is a corequisite.
 
 ### Requirements Satisfied
 

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6de678fd-f542-ae23-9de0-55d7b2f9baa1
 resourcetype: Image
 title: damper.jpg
 uid: 61d97aa3-3638-d5c9-ea94-d2c8d3b527ef
